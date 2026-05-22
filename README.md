@@ -1,4 +1,3 @@
-# BA-Skills-Salary-Analysis
 # Breaking Into Business Analyst — Skills & Salary Analysis
 
 ## Project Overview
